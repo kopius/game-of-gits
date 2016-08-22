@@ -8,3 +8,6 @@ begin, and let me assure you he will DEFINITELY NOT DIE!
 Ok. Let's make some changes.
 
 Then he went swimming.
+
+Afterwards he got a snack at the local tavern. It was a ham sandwich. The ham
+was pretty good but the bread was super stale. Oh well, he thought.
